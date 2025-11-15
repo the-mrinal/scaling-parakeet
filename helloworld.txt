@@ -1,1 +1,2 @@
-sample file to test git
+sample file to test git,
+part 2
